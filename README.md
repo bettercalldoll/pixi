@@ -1,4 +1,4 @@
 ## Simple setup for pixi.js.
 
-`npm install`
+`npm install`  
 `npm start`
